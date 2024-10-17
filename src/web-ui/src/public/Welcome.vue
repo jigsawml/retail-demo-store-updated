@@ -8,7 +8,7 @@
   >
     <div class="container mb-2 text-left">
       <h1 class="heading my-5 text-center">
-        Welcome to the Jigsaw Demo Store!
+        Welcome to the JigsawML Demo Store!
       </h1>
 
       <p>
